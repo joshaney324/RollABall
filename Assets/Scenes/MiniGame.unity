@@ -901,12 +901,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickupPrefab: {fileID: 1771116825897524630, guid: 3081c40335ddb4f45a192ccdd4c31182, type: 3}
   numberOfPickups: 10
-  playAreaMin: {x: -1, y: 0, z: -10}
-  playAreaMax: {x: 1, y: 0, z: 10}
+  playAreaMin: {x: -11.5, y: 0, z: -8}
+  playAreaMax: {x: 7, y: 0, z: 10.5}
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 8
-  pickupRadius: 0.5
+  pickupRadius: 1
 --- !u!1001 &5907805915603436100
 PrefabInstance:
   m_ObjectHideFlags: 0
